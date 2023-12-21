@@ -3,9 +3,7 @@ import { View, Text, ScrollView, StyleSheet, Image,TouchableOpacity } from 'reac
 import { useNavigation } from '@react-navigation/native';
 import { createBottomTabNavigator } from '@react-navigation/bottom-tabs';
 import { Ionicons } from '@expo/vector-icons';
-// import { RNCamera  } from 'react-native-camera';
 import { Camera } from 'expo-camera';
-
 
 
 const getStatusTextStyle = (status) => {

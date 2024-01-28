@@ -1,4 +1,5 @@
 
 # Medi-Watch companion app
 
-![ezgif-5-d1e9cbbb4d](https://github.com/JoeFarag-00/Medi-WatchApp/assets/88057098/d94e1e1c-b3a4-4a0a-97ec-8ebf8c27a9ea)
+https://github.com/JoeFarag-00/Medi-WatchApp/assets/88057098/35aef0a2-3beb-4b70-ad01-d4d98f6bf78b
+
